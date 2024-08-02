@@ -1,0 +1,10 @@
+*.env
+*.venv
+*.log
+*.parquet
+*.xml
+.terraform
+*.tfvars
+*.backup
+*tfstate
+*.hcl
